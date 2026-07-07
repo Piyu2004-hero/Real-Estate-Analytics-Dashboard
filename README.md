@@ -1,6 +1,6 @@
 # 🏡 Real Estate Market Trends Dashboard | Power BI
 
-![Dashboard](Assets/dashboard.png)
+![Dashboard](Assets/overview.png)
 
 ## 📌 Project Overview
 
@@ -95,10 +95,11 @@ Real-Estate-Market-Trends-PowerBI-Dashboard
 ├── Real_Estate_Market_Trends_10000.xlsx
 ├── README.md
 ├── LICENSE
-└── Assets
+└── Assets/
       ├── dashboard.png
       ├── overview.png
-      └── icons
+      └── icons/
+            ├── excel.png
 ```
 
 ---
