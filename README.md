@@ -33,7 +33,7 @@ This project presents an interactive Power BI dashboard that analyzes **10,000+ 
 
 ## 📈 Dashboard Preview
 
-![Overview](Assets/overview.png)
+![Overvie](Assets/dashboard.png)
 
 ---
 
