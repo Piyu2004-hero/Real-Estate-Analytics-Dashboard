@@ -90,14 +90,15 @@ The dataset contains over **10,000 real estate listings** with attributes such a
 ```
 Real-Estate-Market-Trends-PowerBI-Dashboard
 │
-├── README.md
-├── LICENSE
+├── Dashboard Screenshot.png
 ├── RealEstateDashboard.pbix
 ├── Real_Estate_Market_Trends_10000.xlsx
+├── README.md
+├── LICENSE
 └── Assets
-    ├── dashboard.png
-    ├── overview.png
-    └── icons
+      ├── dashboard.png
+      ├── overview.png
+      └── icons
 ```
 
 ---
